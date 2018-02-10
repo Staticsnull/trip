@@ -1,6 +1,6 @@
-DROP database IF EXISTS ttms;
-CREATE database ttms DEFAULT CHARACTER SET 'utf8';
-use ttms;
+﻿DROP database IF EXISTS ttms4;
+CREATE database ttms4 DEFAULT CHARACTER SET 'utf8';
+use ttms4;
 
 -- ----------------------------
 -- Table structure for sys_companies
